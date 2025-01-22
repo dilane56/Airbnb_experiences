@@ -6,6 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Installation des dépendances
+
+Après avoir cloné le dépôt, exécutez la commande suivante pour installer les dépendances :
+
+### yarn install 
+
+Pour installer les modules de react
+
+Vous pouvez aussi executer les commandes suivates :
+ 
 ### `yarn start`
 
 Runs the app in the development mode.\
